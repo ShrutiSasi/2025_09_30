@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "test_quarto.html#quarto",
+    "href": "test_quarto.html#quarto",
+    "title": "test_quarto",
+    "section": "Quarto",
+    "text": "Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test_quarto.html#running-code",
+    "href": "test_quarto.html#running-code",
+    "title": "test_quarto",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "test_quarto.html#getting-up",
+    "href": "test_quarto.html#getting-up",
+    "title": "test_quarto",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "test_quarto.html#breakfast",
+    "href": "test_quarto.html#breakfast",
+    "title": "test_quarto",
+    "section": "Breakfast",
+    "text": "Breakfast\n\nEat eggs\nDrink coffee"
+  },
+  {
+    "objectID": "test_quarto.html#dinner",
+    "href": "test_quarto.html#dinner",
+    "title": "test_quarto",
+    "section": "Dinner",
+    "text": "Dinner\n\nEat spaghetti\nDrink wine"
+  },
+  {
+    "objectID": "test_quarto.html#going-to-sleep",
+    "href": "test_quarto.html#going-to-sleep",
+    "title": "test_quarto",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
+  }
+]
